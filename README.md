@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Artclaser
 - 👀 I’m interested in Dev,Crypto and Bourse 
-- 🌱 I’m currently learning Python3  
+- 🌱 I’m currently learning Python3, React , React Native , Django   
 - 💞️ I’m looking to collaborate on The boss french developeur 
 - 📫 How to reachWeb3
 
